@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DAM_UC3_Carlos_Pena</string>
+    <string name="correofalso">Correo Electronico</string>
+    <string name=".v">Correo d</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="cerrar_seccion">No cerrar sesión</string>
+    <string name="olvidar_contra">¿Has olvidado tu contraseña?</string>
+    <string name="titulo">Registrate</string>
+    <string name="anuncio">(Es gratis y lo seguira siendo)</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="Apellido">Apellido:</string>
+    <string name="correo_elec">Tu direccion de \ncorreo electronico</string>
+    <string name="contra_new">Contraseña \nnueva:</string>
+    <string name="sexo">Sexo\n</string>
+    <string name="fecha_nacimiento">Fecha de\nnacimiento</string>
+    <string name="precuacion">¿Porque tengo que dar esta informacion?</string>
+    <string name="Entrar">entrar</string>
+    <string name="registrar">Registrarse</string>
+</resources>
